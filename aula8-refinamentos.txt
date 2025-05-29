@@ -1,0 +1,73 @@
+Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    Refinando o 'código' adição:
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código' adição:
+
+    1. Ler [a]; # read [a] intup [a]
+    2. Ler [b]
+    2. [soma] = [a] + [b];
+    3. Mostre [soma]. # print [soma] show [soma] output [soma] 
+
+     Refinando o 'código' subtração:
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] - [b];
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código' subtração:
+
+    1. Ler [a]; # read [a] intup [a]
+    2. Ler [b]
+    2. [diferença] = [a] - [b];
+    3. Mostre [diferença]. # print [diferença] show [diferença] output [diferença] 
+
+     Refinando o 'código' multiplicação:
+
+    1. Leia os números [a] e [b];
+    2. Calcule o produto de [a] * [b];
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código' multiplicação:
+
+    1. Ler [a]; # read [a] intup [a]
+    2. Ler [b]
+    2. [produto] = [a] * [b];
+    3. Mostre [produto]. # print [produto] show [produto] output [produto] 
+
+   Refinando o 'código' divisão:
+
+    1. Leia os números [a] e [b];
+    2. Calcule o quociente de [a] / [b];
+    3. Mostre o resultado desse quociente.
+
+    Refinando o 'código' divisão:
+
+    1. Ler [a]; # read [a] intup [a]
+    2. Ler [b]
+    2. [quociente] = [a] / [b];
+    3. Mostre [quociente]. # print [quociente] show [quociente] output [quociente] 
+
+
+
+
